@@ -1,0 +1,12 @@
+var bangla = 56;
+var english = 50;
+var result = bangla + english;
+var aluDam = 100;
+var dalDam = 50;
+var motTaka = aluDam * dalDam;
+var ovenPrice = 18990;
+var ironPrice = 1290;
+var motDam = ovenPrice - ironPrice;
+console.log(motDam);
+// console.log(motTaka);
+// console.log(result);
